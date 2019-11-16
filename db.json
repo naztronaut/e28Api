@@ -298,15 +298,6 @@
       "category": "UI Components",
   "downloads": 147623,
       "license": "MIT"
-},
-    {
-      "id": 34,
-      "name": "Bulma",
-      "installer": "bulma",
-      "description": "Bulma is a modern CSS framework based on Flexbox.",
-      "category": "Styling",
-  "downloads": 147623,
-      "license": "MIT"
-    }
+}
   ]
 }
