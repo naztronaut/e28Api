@@ -270,34 +270,5 @@
       "downloads": 147623,
       "license": "MIT"
     }
-    ],
-    "myPackages": [
-    {
-      "id": 31,
-      "name": "lowercase-keys",
-      "installer": "lowercase-keys",
-      "description": "Lowercase the keys of an object",
-      "category": "Utilities",
-      "downloads": 147623,
-      "license": "MIT"
-    },
-    {
-      "id": 32,
-      "name": "normalize-url",
-      "installer": "normalize-url",
-      "description": "Normalize a URL. Useful when you need to display, store, deduplicate, sort, compare, etc, URLs.",
-      "category": "Utilities",
-      "downloads": 147623,
-      "license": "MIT"
-    },
-    {
-      "id": 33,
-      "name": "Buefy",
-      "installer": "buefy",
-      "description": "Buefy is a lightweight library of responsive UI components for Vue.js based on Bulma framework and design.",
-      "category": "UI Components",
-  "downloads": 147623,
-      "license": "MIT"
-}
   ]
 }
