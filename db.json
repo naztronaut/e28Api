@@ -251,24 +251,6 @@
       "category": "Datatable",
       "downloads": 147623,
       "license": "MIT"
-    },
-    {
-      "id": 29,
-      "name": "vue-resource",
-      "installer": "vue-resource",
-      "description": "The plugin for Vue.js provides services for making web requests and handle responses using a XMLHttpRequest or JSONP.",
-      "category": "AJAX",
-      "downloads": 147623,
-      "license": "MIT"
-    },
-    {
-      "id": 30,
-      "name": "Got",
-      "installer": "got",
-      "description": "Got is a human-friendly and powerful HTTP request library. It was created because the popular request package is bloated",
-      "category": "AJAX",
-      "downloads": 147623,
-      "license": "MIT"
     }
   ]
 }
