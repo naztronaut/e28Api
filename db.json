@@ -6,7 +6,7 @@
       "installer": "bootstrap-vue",
       "description": "BootstrapVue, with over 40 available plugins and more than 80 custom components, provides one of the most comprehensive implementations of the Bootstrap v4.3 component and grid system for Vue.js, complete with extensive and automated WAI-ARIA accessibility markup.",
       "category": "Styling",
-  "downloads": 147623,
+  "downloads": "12,569,832",
       "license": "MIT"
     },
     {
@@ -15,7 +15,7 @@
       "installer": "vue-lazyload",
       "description": "Vue module for lazyloading images in your applications.",
       "category": "Styling",
-  "downloads": 147623,
+  "downloads": "107,623",
       "license": "MIT"
     },
     {
@@ -24,7 +24,7 @@
       "installer": "@fortawesome/vue-fontawesome",
       "description": "Font Awesome 5 Vue component using SVG with JS",
       "category": "Styling",
-  "downloads": 147623,
+  "downloads": "34,147,623",
       "license": "MIT"
     },
     {
@@ -33,8 +33,8 @@
       "installer": "vue-notification",
       "description": "Integrated Alerts for Vue",
       "category": "UI Components",
-  "downloads": 147623,
-      "license": "MIT"
+  "downloads": "3,141,003,
+      "license": "Apache"
     },
     {
       "id": 5,
@@ -42,8 +42,8 @@
       "installer": "vuedraggable",
       "description": "Vue component (Vue.js 2.0) or directive (Vue.js 1.0) allowing drag-and-drop and synchronization with view model array.",
       "category": "UI Components",
-  "downloads": 147623,
-      "license": "MIT"
+  "downloads": "109,623",
+      "license": "Apache"
     },
     {
       "id": 6,
@@ -60,7 +60,7 @@
       "installer": "vue-full-calendar",
       "description": "Full Calendar for Vue",
       "category": "Datetime",
-      "downloads": 147623,
+      "downloads": "839,301",
       "license": "MIT"
     },
     {
@@ -69,7 +69,7 @@
       "installer": "vue-datetime",
       "description": "Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.",
       "category": "Datetime",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -78,7 +78,7 @@
       "installer": "vue-moment",
       "description": "Handy Moment.js filters for your Vue.js project.",
       "category": "Datetime",
-      "downloads": 147623,
+      "downloads": "2,147,623",
       "license": "MIT"
     },
     {
@@ -87,8 +87,8 @@
       "installer": "vue-visual",
       "description": "Vue 2 image and video loader supporting lazy loading, cover videos, and more!",
       "category": "Media",
-      "downloads": 147623,
-      "license": "MIT"
+      "downloads": "7,623",
+      "license": "Apache"
     },
     {
       "id": 11,
@@ -96,8 +96,8 @@
       "installer": "vue-avatar",
       "description": "An avatar component for vue.js.",
       "category": "UI Component",
-      "downloads": 147623,
-      "license": "MIT"
+      "downloads": "47,623",
+      "license": "CC"
     },
     {
       "id": 12,
@@ -105,7 +105,7 @@
       "installer": "vue-gallery",
       "description": "VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.",
       "category": "Gallery",
-      "downloads": 147623,
+      "downloads": "3,476",
       "license": "MIT"
     },
     {
@@ -114,7 +114,7 @@
       "installer": "@fawmi/vue-gallery",
       "description": "A responsive, customizable and touch and mobile ready VueJS image and video gallery, carousel and lightbox built with modern Javascript.",
       "category": "Gallery",
-      "downloads": 147623,
+      "downloads": "14,303",
       "license": "MIT"
     },
     {
@@ -123,7 +123,7 @@
       "installer": "vue-navigation-bar",
       "description": "A simple, pretty navbar for your Vue projects.",
       "category": "Navigation",
-      "downloads": 147623,
+      "downloads": "12,309",
       "license": "MIT"
     },
     {
@@ -132,7 +132,7 @@
       "installer": "vue-axios",
       "description": "A small wrapper for integrating axios to Vuejs",
       "category": "AJAX",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -141,7 +141,7 @@
       "installer": "axios",
       "description": "Promise based HTTP client for the browser and node.js",
       "category": "AJAX",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -150,8 +150,8 @@
       "installer": "xhr2",
       "description": "This is an npm package that implements the W3C XMLHttpRequest specification on top of the node.js APIs.",
       "category": "AJAX",
-      "downloads": 147623,
-      "license": "MIT"
+      "downloads": "147,623",
+      "license": "Apache"
     },
     {
       "id": 18,
@@ -159,8 +159,8 @@
       "installer": "blueimp-gallery",
       "description": "blueimp Gallery is a touch-enabled, responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.",
       "category": "Gallery",
-      "downloads": 147623,
-      "license": "MIT"
+      "downloads": "147,623",
+      "license": "CC"
     },
     {
       "id": 19,
@@ -168,8 +168,8 @@
       "installer": "navigation",
       "description": "A simple JS Navigation",
       "category": "Navigation",
-      "downloads": 147623,
-      "license": "MIT"
+      "downloads": "147,623",
+      "license": "None"
     },
     {
       "id": 20,
@@ -177,7 +177,7 @@
       "installer": "DateTime Script",
       "description": "Customize output for a javascript Date object",
       "category": "Datetime",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -186,7 +186,7 @@
       "installer": "log4js-node",
       "description": "This is a conversion of the log4js framework to work with node. I started out just stripping out the browser-specific code and tidying up some of the javascript to work better in node. It grew from there. Although it's got a similar name to the Java library log4j, thinking that it will behave the same way will only bring you sorrow and confusion.",
       "category": "Logging",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -195,7 +195,7 @@
       "installer": "debug",
       "description": "A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.",
       "category": "Logging",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -204,7 +204,7 @@
       "installer": "ms",
       "description": "Use this package to easily convert various time formats to milliseconds.",
       "category": "Datetime",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -213,7 +213,7 @@
       "installer": "Sweet Alert",
       "description": "A beautiful replacement for JavaScript's alert",
       "category": "UI Component",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -222,7 +222,7 @@
       "installer": "toastr",
       "description": "toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.",
       "category": "UI Component",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -231,7 +231,7 @@
       "installer": "jquery",
       "description": "jQuery is a fast, small, and feature-rich JavaScript library.",
       "category": "Library",
-      "downloads": 147623,
+      "downloads": "199,987,623",
       "license": "MIT"
     },
     {
@@ -240,7 +240,7 @@
       "installer": "datatables.net",
       "description": "This package contains distribution files for the DataTables library for jQuery. Only the core software for this library is contained in this package - to be correctly styled, a styling package for DataTables must also be included. Styling options include DataTable's native styling, Bootstrap and Foundation.",
       "category": "Datatable",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     },
     {
@@ -249,7 +249,7 @@
       "installer": "vuetable-2",
       "description": "If you've been using Vuetable for Vue 1.x before, checkout what's changed for info on changes from Vuetable for Vue 1.x and the upgrade guide on how you could upgrade from Vuetable for Vue 1.x.",
       "category": "Datatable",
-      "downloads": 147623,
+      "downloads": "992,345",
       "license": "MIT"
     },
     {
@@ -258,7 +258,7 @@
       "installer": "vue-resource",
       "description": "The plugin for Vue.js provides services for making web requests and handle responses using a XMLHttpRequest or JSONP.",
       "category": "AJAX",
-      "downloads": 147623,
+      "downloads": "34,623",
       "license": "MIT"
     },
     {
@@ -267,7 +267,7 @@
       "installer": "got",
       "description": "Got is a human-friendly and powerful HTTP request library. It was created because the popular request package is bloated",
       "category": "AJAX",
-      "downloads": 147623,
+      "downloads": "147,623",
       "license": "MIT"
     }
   ]
