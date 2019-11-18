@@ -33,7 +33,7 @@
       "installer": "vue-notification",
       "description": "Integrated Alerts for Vue",
       "category": "UI Components",
-  "downloads": "3,141,003,
+      "downloads": "3,141,003",
       "license": "Apache"
     },
     {
@@ -42,7 +42,7 @@
       "installer": "vuedraggable",
       "description": "Vue component (Vue.js 2.0) or directive (Vue.js 1.0) allowing drag-and-drop and synchronization with view model array.",
       "category": "UI Components",
-  "downloads": "109,623",
+      "downloads": "109,623",
       "license": "Apache"
     },
     {
@@ -51,7 +51,7 @@
       "installer": "sortablejs",
       "description": "Sortable is a JavaScript library for reorderable drag-and-drop lists.",
       "category": "UI Components",
-  "downloads": 147623,
+      "downloads": 147623,
       "license": "MIT"
     },
     {
