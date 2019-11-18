@@ -6,7 +6,7 @@
       "installer": "bootstrap-vue",
       "description": "BootstrapVue, with over 40 available plugins and more than 80 custom components, provides one of the most comprehensive implementations of the Bootstrap v4.3 component and grid system for Vue.js, complete with extensive and automated WAI-ARIA accessibility markup.",
       "category": "Styling",
-  "downloads": "12,569,832",
+      "downloads": "12,569,832",
       "license": "MIT"
     },
     {
@@ -15,7 +15,7 @@
       "installer": "vue-lazyload",
       "description": "Vue module for lazyloading images in your applications.",
       "category": "Styling",
-  "downloads": "107,623",
+      "downloads": "107,623",
       "license": "MIT"
     },
     {
@@ -24,7 +24,7 @@
       "installer": "@fortawesome/vue-fontawesome",
       "description": "Font Awesome 5 Vue component using SVG with JS",
       "category": "Styling",
-  "downloads": "34,147,623",
+      "downloads": "34,147,623",
       "license": "MIT"
     },
     {
@@ -205,7 +205,7 @@
       "description": "Use this package to easily convert various time formats to milliseconds.",
       "category": "Datetime",
       "downloads": "147,623",
-      "license": "MIT"
+      "license": "CC"
     },
     {
       "id": 24,
@@ -250,7 +250,7 @@
       "description": "If you've been using Vuetable for Vue 1.x before, checkout what's changed for info on changes from Vuetable for Vue 1.x and the upgrade guide on how you could upgrade from Vuetable for Vue 1.x.",
       "category": "Datatable",
       "downloads": "992,345",
-      "license": "MIT"
+      "license": "Apache"
     },
     {
       "id": 29,
